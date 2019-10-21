@@ -1,3 +1,9 @@
 .test {
     width: 1px;
 }
+
+.p {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
