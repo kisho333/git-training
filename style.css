@@ -1,13 +1,8 @@
-.test {
-    width: 1px;
+h1 {
+    color: blue;
 }
 
-.p {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+span {
+    color: red;
 }
 
-.test {
-    height: 1px;
-}
