@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1 {
     color: blue;
 }
@@ -6,3 +7,19 @@ span {
     color: red;
 }
 
+=======
+.test {
+    width: 100px;
+}
+
+p {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: red;
+}
+
+.test {
+    height: 10px;
+}
+>>>>>>> 2fa0f30dfbe3a64007eb89178aba0cb031f796d6
