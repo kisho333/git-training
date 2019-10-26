@@ -1,13 +1,14 @@
 .test {
-    width: 1px;
+    width: 100px;
 }
 
-.p {
+p {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    color: red;
 }
 
 .test {
-    height: 1px;
+    height: 10px;
 }
